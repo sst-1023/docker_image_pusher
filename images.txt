@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 rabbitmq:3.10-management
 openzipkin/zipkin
+nacos/nacos-server:v2.2.3
