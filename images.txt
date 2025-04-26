@@ -8,3 +8,4 @@ rabbitmq:3.10-management
 openzipkin/zipkin
 nacos/nacos-server:v2.2.3
 bladex/sentinel-dashboard:1.8.6
+centos:7
