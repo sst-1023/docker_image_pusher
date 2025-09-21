@@ -10,4 +10,4 @@ nacos/nacos-server:v2.2.3
 bladex/sentinel-dashboard:1.8.6
 centos:7
 kibana:7.14.0
-eleasticsearch:7.14.0
+elasticsearch:7.14.0
